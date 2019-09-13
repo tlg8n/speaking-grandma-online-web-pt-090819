@@ -16,6 +16,6 @@ if phrase == "I love you grandma!".upcase
   return "I love you too pumpkin!".upcase
   elsif
   phrase == phrase.upcase
-  return "No, Not since 1938!lea"
+  return "No, Not since 1938!"
 end
 end
